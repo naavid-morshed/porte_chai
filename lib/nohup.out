@@ -1,0 +1,276 @@
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | Report d46272a7-b34c-46ca-8a6e-71c205fde996 is available remotely as: 3ebb584314794b2a, deleting.
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_8195.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Wait for emulator (pid 8195) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Wait for emulator (pid 8195) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_8275.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1432.78,852.378 gbl=1432.78,852.378 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1432.78,-852.378 last=-1432.78,-852.378 Δ 1432.78,852.378) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1379.19,792.063 gbl=1379.19,792.063 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1379.19,-792.063 last=-1379.19,-792.063 Δ 1379.19,792.063) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1420.14,869.456 gbl=1420.14,869.456 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1420.14,-869.456 last=-1420.14,-869.456 Δ 1420.14,869.456) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1090.26,206.86 gbl=1090.26,206.86 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1090.26,-206.86 last=-1090.26,-206.86 Δ 1090.26,206.86) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1196.37,450.928 gbl=1196.37,450.928 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1196.37,-450.928 last=-1196.37,-450.928 Δ 1196.37,450.928) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1368,369.463 gbl=1368,369.463 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1368,-369.463 last=-1368,-369.463 Δ 1368,369.463) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1190.25,462.853 gbl=1190.25,462.853 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1190.25,-462.853 last=-1190.25,-462.853 Δ 1190.25,462.853) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1369.03,226.113 gbl=1369.03,226.113 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1369.03,-226.113 last=-1369.03,-226.113 Δ 1369.03,226.113) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1169.03,408.902 gbl=1169.03,408.902 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1169.03,-408.902 last=-1169.03,-408.902 Δ 1169.03,408.902) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1175.51,549.619 gbl=1175.51,549.619 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1175.51,-549.619 last=-1175.51,-549.619 Δ 1175.51,549.619) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1347.31,271.764 gbl=1347.31,271.764 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1347.31,-271.764 last=-1347.31,-271.764 Δ 1347.31,271.764) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1051.78,240.992 gbl=1051.78,240.992 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1051.78,-240.992 last=-1051.78,-240.992 Δ 1051.78,240.992) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1320.08,284.512 gbl=1320.08,284.512 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1320.08,-284.512 last=-1320.08,-284.512 Δ 1320.08,284.512) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1062.6,579.913 gbl=1062.6,579.913 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1062.6,-579.913 last=-1062.6,-579.913 Δ 1062.6,579.913) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1286.35,550.663 gbl=1286.35,550.663 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1286.35,-550.663 last=-1286.35,-550.663 Δ 1286.35,550.663) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1098.32,500.58 gbl=1098.32,500.58 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1098.32,-500.58 last=-1098.32,-500.58 Δ 1098.32,500.58) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1386.3,172.658 gbl=1386.3,172.658 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1386.3,-172.658 last=-1386.3,-172.658 Δ 1386.3,172.658) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1014.34,506.927 gbl=1014.34,506.927 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1014.34,-506.927 last=-1014.34,-506.927 Δ 1014.34,506.927) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1176.52,413.799 gbl=1176.52,413.799 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1176.52,-413.799 last=-1176.52,-413.799 Δ 1176.52,413.799) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1353.41,351.141 gbl=1353.41,351.141 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1353.41,-351.141 last=-1353.41,-351.141 Δ 1353.41,351.141) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600003e24240, name="EmulatorContainerClassWindow") ((null):0, (null))
+[8278:12335098:20230711,165853.318440:ERROR directory_reader_posix.cc:42] opendir /tmp/android-naavidmorshed/emu-crash.db/attachments/7d41c99a-6389-4f52-ba18-9709617f3047: No such file or directory (2)
+[8278:12335097:20230711,165853.361108:WARNING crash_report_exception_handler.cc:235] UniversalExceptionRaise: (os/kern) failure (5)
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | Report 7d41c99a-6389-4f52-ba18-9709617f3047 is available remotely as: f41b0becf49e4ce5, deleting.
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_14036.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1377.01,675.844 gbl=1377.01,675.844 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1377.01,-675.844 last=-1377.01,-675.844 Δ 1377.01,675.844) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1064.17,748.253 gbl=1064.17,748.253 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1064.17,-748.253 last=-1064.17,-748.253 Δ 1064.17,748.253) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1259.45,389.912 gbl=1259.45,389.912 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1259.45,-389.912 last=-1259.45,-389.912 Δ 1259.45,389.912) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1248.23,406.427 gbl=1248.23,406.427 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1248.23,-406.427 last=-1248.23,-406.427 Δ 1248.23,406.427) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1373.81,484.333 gbl=1373.81,484.333 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1373.81,-484.333 last=-1373.81,-484.333 Δ 1373.81,484.333) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1316.12,453.925 gbl=1316.12,453.925 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1316.12,-453.925 last=-1316.12,-453.925 Δ 1316.12,453.925) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1125.29,318.788 gbl=1125.29,318.788 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1125.29,-318.788 last=-1125.29,-318.788 Δ 1125.29,318.788) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1288.13,322.823 gbl=1288.13,322.823 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1288.13,-322.823 last=-1288.13,-322.823 Δ 1288.13,322.823) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1051.98,557.081 gbl=1051.98,557.081 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1051.98,-557.081 last=-1051.98,-557.081 Δ 1051.98,557.081) : no target window ((null):0, (null))
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1185.92,490.856 gbl=1185.92,490.856 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1185.92,-490.856 last=-1185.92,-490.856 Δ 1185.92,490.856) : no target window ((null):0, (null))
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1233.49,471.918 gbl=1233.49,471.918 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1233.49,-471.918 last=-1233.49,-471.918 Δ 1233.49,471.918) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1199.53,594.583 gbl=1199.53,594.583 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1199.53,-594.583 last=-1199.53,-594.583 Δ 1199.53,594.583) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1148.15,518.879 gbl=1148.15,518.879 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1148.15,-518.879 last=-1148.15,-518.879 Δ 1148.15,518.879) : no target window ((null):0, (null))
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1175.22,627.279 gbl=1175.22,627.279 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1175.22,-627.279 last=-1175.22,-627.279 Δ 1175.22,627.279) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1109.51,742.851 gbl=1109.51,742.851 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1109.51,-742.851 last=-1109.51,-742.851 Δ 1109.51,742.851) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x600000df3420, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=1 ts=0 pos=0,0 scn=1304.35,234.642 gbl=1304.35,234.642 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1304.35,-234.642 last=-1304.35,-234.642 Δ 1304.35,234.642) : no target window ((null):0, (null))
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+libc++abi: terminating due to uncaught exception of type std::bad_cast: std::bad_cast
+[14043:12403054:20230711,171559.379404:ERROR directory_reader_posix.cc:42] opendir /tmp/android-naavidmorshed/emu-crash.db/attachments/952d041b-1187-45b1-91fd-9f7ae365db81: No such file or directory (2)
+[14043:12403051:20230711,171559.428723:WARNING crash_report_exception_handler.cc:235] UniversalExceptionRaise: (os/kern) failure (5)
+INFO    | Android emulator version 32.1.12.0 (build_id 9751036) (CL:N/A)
+INFO    | Found systemPath /Users/naavidmorshed/Library/Android/sdk/system-images/android-33/google_apis/arm64-v8a/
+WARNING | cannot add library /Users/naavidmorshed/Library/Android/sdk/emulator/qemu/darwin-aarch64/lib64/vulkan/libvulkan.dylib: failed
+INFO    | Storing crashdata in: /tmp/android-naavidmorshed/emu-crash.db, detection is enabled
+INFO    | Duplicate loglines will be removed, if you wish to see each indiviudal line launch with the -log-nofilter flag.
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_posture_requested(int) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_posture_selection_dialog() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_new_resizable_requested(PresetEmulatorSizeType) ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_dismiss_resizable_dialog() ((null):0, (null))
+INFO    | Crash reports will be automatically uploaded to: https://clients2.google.com/cr/report
+INFO    | Report 952d041b-1187-45b1-91fd-9f7ae365db81 is available remotely as: 5b2891e7487c4c07, deleting.
+INFO    | added library /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/vulkan/libvulkan.dylib
+INFO    | Sending adb public key [QAAAABnxWkbXJHh8/QqckxVWqPWDeg+B2m99U/mlZ2ajyUgps+2Crq8823r39NJnr55RsIlkcxBmv/nKtoa3z0k0/KO07Ey1k2cNNJAwt942GL7hgRz6x+I18xBdrPFQz2JYQqC4Q1qMAl4r9A/oq83QbEyEuEQUSA4yY0JR40sYtSjDOT8HzSzvt5hQpge5Hu36jYy7jbzqXS9VMkJIBvo/Cld1FI3l5JQt4ly4FPHEqc4L7GAdENKNPKwKQgHQf0liZrFFGtIRjRkd0gXMwehSMudPhUE7KAsXupmPCHKp5WsJjlMfIKkPl1HByCbBwolzqtmiQqHl8QXA0faFOIcW4O7G6GLCh5eJRglmwgduyH/4c987qaol12+sDSP+l2CYLv8Tak3pKUBIIFI19u9oOYEHH/b9ZLsXRw89m7os76aEkb18Nv1ZpZbQjo4Mgxum5Ltw8N+JNnuAXFH/G11Vo3UdeRla5J/OW0Wqxw+RoW+IEKIuQK85hUKqgrdxlZx+zSkMOhLZy3X4+oeEIH2yig6NxVJKTW7AlnuU+p9iONjji9yIedp8dicBM0ClV8ufGBwvU4NFfBY73q9iROYU24xYMvkjIaQkyJils9/4bJpgfuljRp+4S0D7jSzEILX+6W6ZMPGkdt0LVYtQwT0GRshlJQr5D36q9sNZJXWfBDboBKjvrwEAAQA= naavidmorshed@unknown]
+WARNING | *** No gRPC protection active, consider launching with the -grpc-use-jwt flag.***
+INFO    | Started GRPC server at 127.0.0.1:8554, security: Local, auth: none
+INFO    | Advertising in: /Users/naavidmorshed/Library/Caches/TemporaryItems/avd/running/pid_16205.ini
+INFO    | Setting display: 0 configuration to: 1440x3120, dpi: 560x560 
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000031f4540, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=0 ts=0 pos=0,0 scn=1072.44,114.975 gbl=1072.44,114.975 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1072.44,-114.975 last=-1072.44,-114.975 Δ 1072.44,114.975) : no target window ((null):0, (null))
+INFO    | Warning: delivering touch release to same window QWindow(0x0) not QWidgetWindow(0x6000031f4540, name="EmulatorContainerClassWindow") ((null):0, (null))
+INFO    | Warning: skipping QEventPoint(id=0 ts=0 pos=0,0 scn=1073.46,445.861 gbl=1073.46,445.861 Released ellipse=(1x1 ∡ 0) vel=0,0 press=-1073.46,-445.861 last=-1073.46,-445.861 Δ 1073.46,445.861) : no target window ((null):0, (null))
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8229 format 0x1903 type 0x1401
+glTexImage2D: got err pre :( 0x506 internal 0x8058 format 0x1908 type 0x1401
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_rgbcSensorValueWidget_valueChanged() ((null):0, (null))
+INFO    | Warning: QMetaObject::connectSlotsByName: No matching signal for on_posture_valueChanged(int) ((null):0, (null))
+INFO    | Wait for emulator (pid 16205) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+INFO    | Wait for emulator (pid 16205) 20 seconds to shutdown gracefully before kill;you can set environment variable ANDROID_EMULATOR_WAIT_TIME_BEFORE_KILL(in seconds) to change the default value (20 seconds)
+
+INFO    | Info: 
+
+GLImplementation: 
+Surface Type: OpenGL
+Surface Profile: CoreProfile
+Surface Version: 4.1
+Using Default SG Backend: no
+Using Software Dynamic GL: no
+Using Angle: no
+
+Init Parameters:
+  *  application-name Emulator 
+  *  browser-subprocess-path /Users/naavidmorshed/Library/Android/sdk/emulator/lib64/qt/libexec/QtWebEngineProcess 
+  *  disable-features DnsOverHttpsUpgrade,ConsolidatedMovementXY,InstalledApp,BackgroundFetch,WebOTP,WebPayments,WebUSB,PictureInPicture 
+  *  disable-gpu  
+  *  disable-speech-api  
+  *  enable-features TracingServiceInProcess 
+  *  enable-threaded-compositing  
+ ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (2x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))
+ (3x)
+INFO    | Warning: No TLS backend is available ((null):0, (null))
+INFO    | Warning: No functional TLS backend was found ((null):0, (null))

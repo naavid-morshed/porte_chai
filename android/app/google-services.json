@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "533899571849",
+    "project_id": "porte-chai-835f3",
+    "storage_bucket": "porte-chai-835f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533899571849:android:e61f491c55529999bc4c58",
+        "android_client_info": {
+          "package_name": "com.example.porte_chai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533899571849-l9fb41i9ke8ml23pa4e1rv04oeasoh8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.porte_chai",
+            "certificate_hash": "da79ad45618d56af8a9d73c01637652090c32973"
+          }
+        },
+        {
+          "client_id": "533899571849-f72uopmvn84f3mt0gpa52r448h5je1dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LqkN5gtVMLQcc7lN5jqWibxcgBe5eLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533899571849-39g6406uvu5j2taell4a5fj7an4i8lap.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "533899571849-al436rd4c23k7tek67ti5lrh9sbilk7h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.porteChai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
